@@ -1,0 +1,41 @@
+{
+  "produtos": [
+    {
+      "id": 1,
+      "produto": "Sabao",
+      "categoria": 1
+    },
+    {
+      "id": 2,
+      "produto": "Detergente",
+      "categoria": 1
+    },
+    {
+      "id": 3,
+      "produto": "Biscoito",
+      "categoria": 2
+    }
+  ],
+  "categorias": [
+    {
+      "id": 1,
+      "categoria": "Limpeza"
+    },
+    {
+      "id": 2,
+      "categoria": "Alimentos"
+    },
+    {
+      "categoria": "Informatica",
+      "id": 3
+    },
+    {
+      "categoria": "Livros",
+      "id": 4
+    },
+    {
+      "categoria": "Moveis",
+      "id": 5
+    }
+  ]
+}
